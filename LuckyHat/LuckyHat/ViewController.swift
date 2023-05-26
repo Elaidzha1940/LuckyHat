@@ -1,12 +1,15 @@
+//  /*
 //
-//  ViewController.swift
-//  LuckyHat
+//  Project: LuckyHat
+//  File: ViewController.swift
+//  Created by: Elaidzha Shchukin
+//  Date: 25.05.2023
 //
-//  Created by Elaidzha Shchukin on 25.05.2023.
+//  Status
 //
+//  */
 
 import UIKit
-
 
 class ViewController: UIViewController {
     let fieldSize = CGSize(width: 30, height: 45) // Adjust the size of the field for different levels
